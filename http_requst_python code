@@ -1,4 +1,4 @@
 import requests
 
-r = requests.get('https://medium.com/artificial-intelligence-usm-systems/10-common-applications-of-artificial-intelligence-in-health-care-9d34ccccda5c')
+r = requests.get('https://medium.com/artificial-intelligence-usm-systems/artificial-intelligence-role-in-customer-service-e91cabe6e7b')
 print(r.text)
