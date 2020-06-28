@@ -1,0 +1,4 @@
+import requests
+
+r = requests.get('https://medium.com/artificial-intelligence-usm-systems/10-common-applications-of-artificial-intelligence-in-health-care-9d34ccccda5c')
+print(r.text)
